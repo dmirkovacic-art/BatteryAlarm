@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Android signing keys
+*.jks
+*.keystore
+*.p12
+*.pem
+# Kotlin generated files
+.kotlin/
+
+# Local audio diagnostics
+/audio.txt
+/audio_policy.txt
+
+# Android Studio local device settings
+/.idea/deviceManager.xml
+/.idea/deploymentTargetSelector.xml
